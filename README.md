@@ -43,8 +43,7 @@ The school district board has presented both school and student data (see resour
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 
-	By using the ranking function in pandas [code: per_school_summary_df_rank=per_school_summary_df['% Overall Passing'].rank(ascending=False)
-per_school_summary_df_rank)], it was observed that the tampered data had a significant impact on THS overall performance compared to other schools. This overall percent performance is based on both maths and reading have a score greater than or equal to 70%.
+	By using the ranking function in pandas [code: per_school_summary_df_rank=per_school_summary_df['% Overall Passing'].rank(ascending=False)], it was observed that the tampered data had a significant impact on THS overall performance compared to other schools. This overall percent performance is based on both maths and reading have a score greater than or equal to 70%.
 
     
 	Before the data was cleaned, with an overall passing percent of 91% THS ranked second for all the schools analyzed. 
