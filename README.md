@@ -2,9 +2,9 @@
 
 ## Overview and Objective
 
-The school district board has presented both school and student data (see resources folder) for analysis. The project involves analyzing school and student statistics with the main feedback being data on percentage pass rates for mathematics, reading and both of these subjects. In addition, the analysis requires summarized results based on a specific set of categories for example top and bottom performing schools, and outcomes based on budget and size, to name a few. However, there is evidence of tampering of reading and math grades for Thomas High School (THS) ninth graders. This dishonesty challenges the integrity of the state-testing standards and may have significant on the overall outcome of the analysis. Considering the analysis was already completed and summarized, the objectives of this report were:
+The school district board has presented both school and student data (see resources folder) for analysis. The project involves analyzing school and student statistics with the main feedback being data on percentage pass rates for mathematics, reading and both of these subjects. In addition, the analysis included summarized results based on a specific set of categories for example top and bottom performing schools, and outcomes based on budget and size, to name a few. However, there is evidence of tampering of reading and math grades for one of the schools at a speicific grade level. This dishonesty challenges the integrity of the state-testing standards and may have significant implications on the overall outcome of the analysis. Considering the analysis was already completed and summarized, the objectives of this project were:
 
-* replace the grades for the above-mentioned school
+* replace the grades for the school that had evidence of tampering
 * repeat the analysis to produce the following summarized outcomes: district summary, school summary, math and reading scores by grade, high and low performing schools, and scores by school budget, school size and school type.
 * compare the outcome of the analysis before and after the grades were replaced
 
