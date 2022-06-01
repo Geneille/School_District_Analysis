@@ -1,8 +1,12 @@
 # School_District_Analysis
 
-## Overview and Objective
+## Overview and Objectives
 
-The school district board has presented both school and student data (see resources folder) for analysis. The project involves analyzing school and student statistics with the main feedback being data on percentage pass rates for mathematics, reading and both of these subjects. In addition, the analysis included summarized results based on a specific set of categories for example top and bottom performing schools, and outcomes based on budget and size, to name a few. However, there is evidence of tampering of reading and math grades for one of the schools at a speicific grade level. This dishonesty challenges the integrity of the state-testing standards and may have significant implications on the overall outcome of the analysis. Considering the analysis was already completed and summarized, the objectives of this project were:
+The school district board has presented both school and student data for analysis. Presented with a variety of information from a variety of sources and in a variety of formats, the task was to prepare all standardize test scores for analysis and reporting. The data was then analyzed and the results was presented to provide insights about trends and patterns to aid in effective decision making for budget allocation.
+
+The project challenge involved analyzing school and student statistics with the main feedback being data on percentage pass rates for mathematics, reading and both of these subjects. In addition, the analysis included summarized results based on a specific set of categories for example top and bottom performing schools, and outcomes based on budget and size, to name a few. 
+
+However, there is evidence of tampering of reading and math grades for one of the schools at a speicific grade level. This dishonesty challenges the integrity of the state-testing standards and may have significant implications on the overall outcome of the analysis. Considering the analysis was already completed and summarized, the objectives of this project were:
 
 * replace the grades for the school that had evidence of tampering
 * repeat the analysis to produce the following summarized outcomes: district summary, school summary, math and reading scores by grade, high and low performing schools, and scores by school budget, school size and school type.
@@ -11,9 +15,11 @@ The school district board has presented both school and student data (see resour
 ## Resources
 
 * The data file used in the analysis is students_complete.csv and school_complete.csv
-* Jupyter notebook
+* Languages & Tools: Python/Pandas, Jupyter notebook
 
 ## Results
+
+The inital result, before analyzing the data again because of suspected tampering can be found in PyCitySchools.ipynb file. The result for the project challege to reevaluate the data because of the tampering can be found in PyCitySchools_Challenge.ipynb. Answers to specific questions are listed below.
 
 * How is the district summary affected?
 
